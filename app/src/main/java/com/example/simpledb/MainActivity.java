@@ -36,8 +36,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         setContentView(R.layout.activity_main);
         tv_show = findViewById(R.id.tv_show);
 
-        tv_show.setText();
-
         getString(R.string.app_name);
 
         PHDbUtils.getInstance().initDB(this, null);
