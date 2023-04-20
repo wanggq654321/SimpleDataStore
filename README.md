@@ -1,0 +1,2 @@
+# SimpleDataStore
+简单的安卓Android持久化数据存储，让代码逻辑看起来清爽明了
