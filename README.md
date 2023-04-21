@@ -2,7 +2,7 @@
 
 无编译时代码生成，轻量级持久化数据库
 
-相对 Room、greenDAO来比simpleDB优点如下：
+相对 Room、greenDAO来比simpleDataStore的DB优点如下：
 0、支持数据库连接池
 1、操作简单，接入使用简洁，代码逻辑清晰；
 2、编译时不生成代码，提高编译效率；
